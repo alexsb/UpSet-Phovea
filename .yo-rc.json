@@ -1,0 +1,28 @@
+{
+  "generator-phovea": {
+    "type": "app",
+    "app": "UpSet",
+    "clientOnly": true,
+    "entries": {
+      "app": "./src/index.ts"
+    },
+    "libraries": [],
+    "modules": [
+      "phovea_core",
+      "phovea_ui",
+      "phovea_clue"
+    ],
+    "libraryAliases": {},
+    "libraryExternals": [
+      "jquery",
+      "font-awesome",
+      "marked"
+    ],
+    "ignores": [],
+    "extensions": [],
+    "name": "UpSet",
+    "author": "Mengjao Han",
+    "today": "Wed, 18 Jan 2017 08:33:38 GMT",
+    "githubAccount": "Caleydo"
+  }
+}
