@@ -1,0 +1,29 @@
+{
+  "name": "colorbrewer",
+  "main": "colorbrewer.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sgratzl/colorbrewer",
+  "authors": [
+    "Samuel Gratzl <samuel_gratzl@gmx.at>"
+  ],
+  "description": "the colorbrewer color scales developed by Cynthia Brewer (http://colorbrewer.org/) as a bower components as packed in the D3 (https://github.com/mbostock/d3/tree/master/lib/colorbrewer) library",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "color",
+    "scale",
+    "visualization",
+    "colorbrewer"
+  ],
+  "license" : "SEE LICENSE IN LICENSE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
