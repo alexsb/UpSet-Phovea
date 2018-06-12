@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```
-git clone https://github.com/u1078078@utah.edu/up_set_phovea.git
+git clone https://github.com/alexsb/UpSet-Phovea.git
 cd up_set_phovea
 npm install
 ```
